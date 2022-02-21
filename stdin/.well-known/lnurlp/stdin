@@ -1,0 +1,9 @@
+{
+  "status":"OK",
+  "callback":"https://zbd.gg/.well-known/lnurlp/stdin",
+  "tag":"payRequest",
+  "maxSendable":45000000,
+  "minSendable":1000,
+  "commentAllowed":150,
+  "metadata":"[[\"text/plain\", \"Pay to stdin.eth\"], [\"text/identifier\", \"stdin@zbd.gg\"]]"
+}
